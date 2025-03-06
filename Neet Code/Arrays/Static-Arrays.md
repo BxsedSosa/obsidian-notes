@@ -2,7 +2,6 @@
 
 `Static arrays` are arrays that are in lower level of programming languages such as Java, C, C++, & C#. A `Static Array` is an array that once it is created it can not me expanded or shrink it. So if I decided to create an array for a size of 10, It will forever be the size of 10. Arrays in general are indexed based data type, meaning that each element in an array is assigned a address number which starts from 0 and increments to the max size minus 1 of that array.
 
-
 ## Reading from an Array
 
 When reading a from an array, there are 2 requirements. You need to have a initialized array and you need a number that is less than the size of that array to read from it. This operation is called `O(1)`, because we have the array we are searching through and we have the direct address of the element we want to see. This would be like getting 2 directions to the mall and also having the direct directions to the store you wanted to go to.

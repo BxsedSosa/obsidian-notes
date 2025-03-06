@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dddd1814ec98e18a",
+        "id": "5b35863e35ea4f4c",
         "type": "tabs",
         "children": [
           {
-            "id": "62a584fbc95f0ac5",
+            "id": "a6d3288dc90ee15d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -89,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Neet Code/Arrays/Static-Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Static-Arrays"
             }
           },
           {
@@ -107,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Neet Code/Arrays/Static-Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Static-Arrays"
             }
           },
           {
@@ -132,9 +135,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Neet Code/Arrays/Static-Arrays.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Static-Arrays"
             }
           }
         ]
@@ -154,14 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51a4c9b0e804642d",
+  "active": "a6d3288dc90ee15d",
   "lastOpenFiles": [
-    "readme.md~",
-    "4913",
     "readme.md",
+    "Neet Code/Arrays/Static-Arrays.md",
     "Neet Code/Arrays/Stacks.md",
     "Neet Code/Arrays/Dynamic-Arrays.md",
-    "Neet Code/Arrays/Static-Arrays.md",
+    "Neet Code/Arrays/Static-Arrays.md~",
+    "readme.md~",
+    "4913",
     "Neet Code/Arrays",
     "Neet Code"
   ]
