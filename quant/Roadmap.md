@@ -12,9 +12,12 @@ Why do I want to become a Quant developer...? Since I been on my self journey fo
 Getting a grip on C++ concepts and making sure knowing the in's and out's of it all.
 ```
 
+- [ ] [CPP Prime](https://www.learncpp.com/)
 - [ ] [Accelerated C++](https://www.amazon.com/gp/product/020170353X?ie=UTF8&camp=1789&creative=9325&creativeASIN=020170353X&linkCode=as2&tag=quant0f-20)
 - [ ] [Effective C++](https://www.amazon.com/gp/product/0321334876?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321334876&linkCode=as2&tag=quant0f-20) Read Multiple Times!
-      **Optional**
+
+**Optional**
+
 - [ ] [More Effective C++](http://www.amazon.com/gp/product/020163371X/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=020163371X&linkCode=as2&tag=quant0f-20)
 - [ ] [Effective STL](http://www.amazon.com/gp/product/0201749629/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0201749629&linkCode=as2&tag=quant0f-20)
 
@@ -53,6 +56,18 @@ These skills are just general computing skills needed for navigating how a compu
 ### Networking
 
 - [ ] [TCP-IP Illustrated VOL. 1](https://www.amazon.com/TCP-Illustrated-Protocols-Addison-Wesley-Professional/dp/0321336313?crid=1L8J4N6ECVQVK&dib=eyJ2IjoiMSJ9.vT1aaq_MECo7C_Rc8QXTO2x_sCmxgHUsDdRFf-2AeD0vD-78fTxUZDjZjczGv6uLg0Ly5Pc1G6jNC0C52kDSkBl1fA1gmTxAf6ZCDZEucg9HTLIfG-T7WCo490VrpcyWpNTdN7LNI82-9-v0uJSvVKdNax5BxHUB7PIKx-Ibt8qbqz81xtp5SdYxTmplvcHU00o4B4_u_eBX0viV_5R3Ye_TvntTKbkXbeDhLu-9ot0.I-UygrTKmujSNSoHLjO-n6aTp__r0zIZAJaGg2IHNMw&dib_tag=se&keywords=tcp-ip+illustrated&qid=1742574037&s=books&sprefix=tcp-ip+illustrate%2Cstripbooks%2C119&sr=1-1)
+
+### Math
+
+```
+Math being one of the main ways to solve these trading problems. Having a solid foundation on this topic, takes a lot of time. But with the right dedication to certain topics within math. Honing in those skills can be easier.
+```
+
+- [ ] [Pre Algebra](https://www.amazon.com/Everything-Pre-Algebra-Algebra-Notebook-Notebooks/dp/1523504382?_encoding=UTF8&qid=1686519384&sr=8-1&linkCode=sl1&tag=themathsorc0e-20&linkId=485a4f517c4bf25d0a3c054545d7be13&language=en_US&ref_=as_li_ss_tl)
+- [ ] [Proofs](https://a.co/d/jg6iE16)
+- [ ] [Calculus](https://www.amazon.com/Essential-Calculus-Practice-Workbook-Solutions/dp/1941691242?crid=2KX4I7C48CDF1&keywords=calculus+mcmullen&qid=1686519506&sprefix=calculus+mcmullen,aps,152&sr=8-1&linkCode=sl1&tag=themathsorc0e-20&linkId=4761b503a6ededdc9ba7d210d1c56c9e&language=en_US&ref_=as_li_ss_tl)
+- [ ] [Probability & Statistics](https://www.amazon.com/dp/007179557X?linkCode=spc&tag=mathsorcerero-20&creativeASIN=007179557X&asc_item-id=amzn1.ideas.3TOTRDJOTO9YD&ref_=aip_sf_list_spv_ofs_m_asin)
+- [ ] [Quant](https://www.amazon.com/Introduction-Quantitative-Finance-Stephen-Blyth/dp/0199666598?crid=2DU0F9AQR3O6A&keywords=math+quantitative+finance&qid=1675400061&sprefix=math+quantative+financ,aps,160&sr=8-4&linkCode=sl1&tag=themathsorc0e-20&linkId=e4784a521f9ba7c7c6e199835004c284&language=en_US&ref_=as_li_ss_tl)
 
 ### Quant Fiance
 
