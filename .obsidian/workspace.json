@@ -11,10 +11,14 @@
             "id": "a6d3288dc90ee15d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "cpp/notes/standard-library.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "standard-library"
             }
           }
         ]
@@ -161,21 +165,27 @@
   },
   "active": "a6d3288dc90ee15d",
   "lastOpenFiles": [
+    "cpp/learncpp/chapter 0/hello-world/main.cpp~",
+    "cpp/learncpp/chapter 0/hello-world/4913",
+    "cpp/learncpp/chapter 0/hello-world/hello world",
+    "cpp/learncpp/chapter 0/hello-world/main.cpp",
+    "cpp/learncpp/chapter 0/hello-world",
+    "cpp/learncpp/chapter0.md",
+    "cpp/learncpp/chapter 0/chapter0.md~",
+    "cpp/learncpp/chapter 0/4913",
+    "cpp/learncpp/chapter 0/chapter0.md",
+    "cpp/learncpp/chapter 0",
+    "cpp/notes/standard-library.md",
+    "cpp/notes/3rd-party-libraries.md",
+    "cpp/notes/3rd-party-libraries.md~",
+    "cpp/notes/4913",
+    "cpp/notes/standard-library.md~",
     "learncpp/chapter0.md",
-    "learncpp",
     "quant/Roadmap.md",
-    "quant",
     "Personal/Clothing Brands.md",
-    "Personal/Clothing Brands.md~",
-    "Personal/4913",
     "Neet Code/Arrays/Static-Arrays.md",
     "readme.md",
     "Neet Code/Arrays/Stacks.md",
-    "Neet Code/Arrays/Dynamic-Arrays.md",
-    "Neet Code/Arrays/Static-Arrays.md~",
-    "readme.md~",
-    "4913",
-    "Neet Code/Arrays",
-    "Neet Code"
+    "Neet Code/Arrays/Dynamic-Arrays.md"
   ]
 }
