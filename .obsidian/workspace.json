@@ -11,14 +11,10 @@
             "id": "a6d3288dc90ee15d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Clothing Brands.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Clothing Brands"
+              "title": "New tab"
             }
           }
         ]
@@ -165,10 +161,14 @@
   },
   "active": "a6d3288dc90ee15d",
   "lastOpenFiles": [
+    "learncpp/chapter0.md",
+    "learncpp",
+    "quant/Roadmap.md",
+    "quant",
+    "Personal/Clothing Brands.md",
     "Personal/Clothing Brands.md~",
     "Personal/4913",
     "Neet Code/Arrays/Static-Arrays.md",
-    "Personal/Clothing Brands.md",
     "readme.md",
     "Neet Code/Arrays/Stacks.md",
     "Neet Code/Arrays/Dynamic-Arrays.md",
