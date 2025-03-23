@@ -26,4 +26,20 @@ When running a program that was compiled, starting from top going to the bottom.
 
 The name of a function i.e. `main` is called its `identifier`.
 
-## Characters
+## Data & Values
+
+In computers we need to read, write, or delete `data`. Data is a integral part of all computers because we need to save data for us to make analysis for anything we are collecting data from. Which that could mean we are getting data for our health, for customer that we might have, or world data.
+
+When programming, a single piece of `data` is called a `value` or sometimes `data value`:
+
+- Numbers (e.g. 5 or -6.7)
+- Characters (when a characters is placed in between single quotes 'h' or '$')
+- Text (when character(s) are placed in between double quotes "Hi" or "h")
+
+When compiler reaches these values, the check then sees if theres `double quotes`, `single quotes`, or just `numbers`. And if any of these checks miss, it probably will result in a compilation error.
+
+Values that are directly placed into the source code are called `literals`.
+
+## [[Random Access Memory]]
+
+`RAM` is the main memory in a computer. When running any program, the OS loads up the program into RAM. All the hardcoded data thats in the program then loads into the memory.
