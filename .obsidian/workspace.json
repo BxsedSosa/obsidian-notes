@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp/notes/statements.md",
+                "file": "cpp/learncpp/chapter 1/chapter1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "statements"
+              "title": "chapter1"
             }
           }
         ]
@@ -167,13 +167,13 @@
   "lastOpenFiles": [
     "cpp/learncpp/chapter 1/chapter1.md~",
     "cpp/learncpp/chapter 1/4913",
+    "cpp/notes/statements.md",
     "cpp/learncpp/chapter 1/chapter1.md",
     "cpp/learncpp/chapter 1/1-1.md",
     "cpp/notes/statements.md~",
     "cpp/notes/4913",
     "cpp/notes/standard-library.md",
     "cpp/learncpp/chapter 0/chapter0.md",
-    "cpp/notes/statements.md",
     "cpp/learncpp/chapter 1",
     "cpp/learncpp/chapter 0/hello-world/main.cpp~",
     "cpp/learncpp/chapter 0/hello-world/4913",
@@ -181,7 +181,6 @@
     "cpp/learncpp/chapter 0/hello-world/main.cpp",
     "cpp/learncpp/chapter 0/hello-world",
     "cpp/learncpp/chapter0.md",
-    "cpp/learncpp/chapter 0/chapter0.md~",
     "cpp/notes/3rd-party-libraries.md",
     "learncpp/chapter0.md",
     "quant/Roadmap.md",

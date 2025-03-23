@@ -12,7 +12,7 @@ Why do I want to become a Quant developer...? Since I been on my self journey fo
 Getting a grip on C++ concepts and making sure knowing the in's and out's of it all.
 ```
 
-- [ ] [CPP Prime](https://www.learncpp.com/)
+- [ ] [CPP Primer](https://www.learncpp.com/)(https://www.learncpp.com/)
 - [ ] [Accelerated C++](https://www.amazon.com/gp/product/020170353X?ie=UTF8&camp=1789&creative=9325&creativeASIN=020170353X&linkCode=as2&tag=quant0f-20)
 - [ ] [Effective C++](https://www.amazon.com/gp/product/0321334876?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321334876&linkCode=as2&tag=quant0f-20) Read Multiple Times!
 
