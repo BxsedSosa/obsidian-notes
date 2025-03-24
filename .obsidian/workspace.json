@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quant/Roadmap.md",
+                "file": "cpp/learncpp/chapter 1/chapter1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap"
+              "title": "chapter1"
             }
           }
         ]
@@ -167,6 +167,11 @@
   },
   "active": "ce4d0828ecbb6837",
   "lastOpenFiles": [
+    "cpp/learncpp/chapter 1/questions/q2",
+    "cpp/learncpp/chapter 1/questions/q2.cpp",
+    "cpp/learncpp/chapter 1/questions",
+    "Emualtor.md",
+    "quant/Roadmap.md",
     "cpp/learncpp/chapter 0/hello-world/main.cpp",
     "cpp/learncpp/chapter 0/hello-world/hello world",
     "Projects.md",
@@ -182,9 +187,6 @@
     "cpp/learncpp",
     "cpp",
     "learncpp/chapter0.md",
-    "quant/Roadmap.md",
-    "learncpp",
-    "Untitled",
     "Untitled.md"
   ]
 }
