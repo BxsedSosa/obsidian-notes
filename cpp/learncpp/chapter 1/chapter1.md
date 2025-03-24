@@ -14,7 +14,6 @@ Statement are a very common instruction in C++ so seeing them and understanding 
 - Iteration statement
 - Try block statement
 
-
 ## Functions and the `main` Function
 
 A collection of statements put together in one block of code could be called a `function`. A `function` being a collection of statements, each statement within the function is completed from top to bottom/sequentially.
@@ -122,3 +121,41 @@ int main() {
     return 0;
 }
 ```
+
+### std::cin
+
+`std::cin` being another predefined variable in `iostream`. This function now takes inputs from the console. Using `std::cin` and the extraction operator `>>` to move the input to a variable.
+
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Enter a number: ";
+
+    int x{};         // Define variable x
+    std::cin >> x;   // Get number from keyboard & store it to variable x
+
+    std::cout << "You entered " << x << '\n';
+    return 0;
+}
+```
+
+This code snippet, starts off with outputting what the program wants. Then define a variable `x` that will be a int (integer). The next line now uses the `std::cin` waits for keyboard inputs and enter for the program to continue. Finally, then output the number that was inputted to `x`
+
+C++ I/O libraries do not provide a way to accept keyboard input without the user having to press enter. You would need to use a third party library for this kind of feature.
+
+### `std::cin` is buffered
+
+Just like how `std::cout` is a 2 stage process. `std::cin` works in a similar way:
+
+1. Each individual characters you enter are added to the input buffer of `std::cin`. Once the enter key is pressed then `\n` character added to end.
+2. The extraction operator `>>` removes characters from the front of the buffer and transfer it to the variable.
+
+### The basic extraction process
+
+`>>` operator simplified:
+
+1. If `std::cin` is not in a good state, no extraction is attempted and extraction process aborts immediately.
+2. If leading whiteaspaces are there it will be removed by default by the buffer. This will discard an unextracted newline character remaining from a prior line of input.
+3. If the input buffer is empty, `>>` will wait till user enters more data.
+4. The `>>` operator extracts as many consecutive characters as it can, until it reaches a newline character or a character that isn't valid for the variable to hold.
