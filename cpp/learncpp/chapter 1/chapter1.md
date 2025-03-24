@@ -36,10 +36,89 @@ When programming, a single piece of `data` is called a `value` or sometimes `dat
 - Characters (when a characters is placed in between single quotes 'h' or '$')
 - Text (when character(s) are placed in between double quotes "Hi" or "h")
 
-When compiler reaches these values, the check then sees if theres `double quotes`, `single quotes`, or just `numbers`. And if any of these checks miss, it probably will result in a compilation error.
+When compiler reaches these values, the check then sees if there's `double quotes`, `single quotes`, or just `numbers`. And if any of these checks miss, it probably will result in a compilation error.
 
 Values that are directly placed into the source code are called `literals`.
 
 ## [[Random Access Memory]]
 
-`RAM` is the main memory in a computer. When running any program, the OS loads up the program into RAM. All the hardcoded data thats in the program then loads into the memory.
+`RAM` is the main memory in a computer. When running any program, the OS loads up the program into RAM. All the hardcoded data that's in the program then loads into the memory.
+
+## Input/Output Library
+
+The [[standard-library]] has a library called `iostream` which takes in data for inputs and also outputs data to the console.
+
+```cpp
+#include <iostream>
+```
+
+### std::cout
+
+`iostream` has predefined variables such as `std::cout`. `std::cout` sends data from the program to the console. Like in the `Hello world` program that we created in [[chapter0]]
+
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Hello world!" << std::endl;
+    return 0;
+}
+```
+
+In this example `std::cout` starts out the statement, then followed with the **insertion operator** `<<`. The insertion operator, takes that data the is on the right side and outputs that to the console.
+
+```cpp
+#include <iostream>
+
+int main() {
+    std::cout << 4 << std::endl;
+    return 0;
+}
+```
+
+This example showcases that it can be other data types that can be outputted to the console.
+
+```
+Tip:
+
+Think of `<<` & `>>` as conveyor belts that are moving data in that direction.
+```
+
+### std::endl
+
+This function allows for you to start a new line when outputting to the console. This allows you to keep the data that's being outputted in a more clean and concise style. `endl` means `end line`
+
+### `std::cout` is buffered
+
+The meaning behind `buffered` is that the way data is processed to the console is like a train. The train fills out the seats and if it were to be full then it will deliver those people. Then come back after dropping them off. This means that there is a potential that your data didn't make it through and could be missing from the output if the train happened to be full.
+
+Since the outputs are `buffered` that means if the program were to
+
+### `std::endl` vs `\n`
+
+Using `std::endl` is no efficient to use, it completes two jobs:
+
+1. It first outputs a new line to the console
+2. Then flushes the buffer (Very slow process)
+
+When it comes to flushing the buffer in C++, its probably unecessary. So it's best to leave that for C++ to do on its own.
+
+By using `\n`, we get to start the new line on the output. Without the process of flushing the buffer. So this method is less taxing on processing which should help with small speed gains.
+
+```cpp
+#include <iostream>
+
+int main() {
+    int x{5};
+    std::cout << "x is equal to: " << x << '\n';
+    // Single quotes
+
+    std::cout << "Yep." << "\n";
+    // Double quotes
+
+    std::cout << "And that's all, folks!\n";
+    // Double quotes, but with exising text
+
+    return 0;
+}
+```
