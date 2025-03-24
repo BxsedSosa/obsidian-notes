@@ -159,3 +159,29 @@ Just like how `std::cout` is a 2 stage process. `std::cin` works in a similar wa
 2. If leading whiteaspaces are there it will be removed by default by the buffer. This will discard an unextracted newline character remaining from a prior line of input.
 3. If the input buffer is empty, `>>` will wait till user enters more data.
 4. The `>>` operator extracts as many consecutive characters as it can, until it reaches a newline character or a character that isn't valid for the variable to hold.
+
+## Uninitialized variables
+
+C++ doesn't automatically initialize empty variables with a default `empty` values. When creating a variable, the memory location that it took over. If it had existing data there and in the code you haven't assigned any value. Then the current value is what was previously in that address location. We call these variables `uninitialized variable`.
+
+## Identifiers
+
+### Identifier naming rules
+
+When creating names for variables with C++ there are a few rules that need to be followed:
+
+- The identifier can not be a keyword (this creates naming conflicts).
+- Identifier can only be made up of letters (lower or upper case), numbers, and underscore characters.
+- Identifier MUST start with a letter or underscore.
+- C++ is case sensitive, so when trying to reaccess a variable you MUST use the same casing.
+
+### Naming Best Practices
+
+There are good practices when creating variable names, other ways are legal in C++ compiler but when others are looking at your code its good to have a rule book. This is some of the best practices:
+
+- All variables should begin with a lowercase letter. If variable name is a single word or acronym, the entire thing should be all lowercase
+- If the variable name requires multiple words, then write the variable in `camelCase`.
+- Avoid naming identifiers starting with an underscore. It is legal so the compiler will not complain but conventionally for other programmers it isn't a normal thing.
+- Make sure the name of the variable actually describes what that variable will be holding. Don't make shortcut names, if you were to work on a exiting project and saw a bunch of single character variables you would have no idea what serves what.
+- Avoid abbreviations, unless they are common within the space and unambiguous
+-
