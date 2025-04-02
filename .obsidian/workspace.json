@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp/learncpp/chapter 1/chapter1.md",
+                "file": "quant/Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter1"
+              "title": "Resources"
             }
           }
         ]
@@ -167,25 +167,28 @@
   },
   "active": "ce4d0828ecbb6837",
   "lastOpenFiles": [
+    "Blockchain",
+    "cpp/learncpp/chapter 4/chapter4.md",
+    "cpp/learncpp/chapter 4",
+    "cpp/learncpp/chapter 2/chapter2.md",
+    "cpp/learncpp/chapter 2",
+    "quant/Roadmap.md",
+    "Emualtor.md",
+    "cpp/learncpp/chapter 1/chapter1.md",
+    "quant/resources.md~",
+    "quant/4913",
+    "quant/Resources.md",
     "cpp/learncpp/chapter 1/questions/q2",
     "cpp/learncpp/chapter 1/questions/q2.cpp",
     "cpp/learncpp/chapter 1/questions",
-    "Emualtor.md",
-    "quant/Roadmap.md",
     "cpp/learncpp/chapter 0/hello-world/main.cpp",
     "cpp/learncpp/chapter 0/hello-world/hello world",
     "Projects.md",
-    "cpp/learncpp/chapter 1/chapter1.md",
     "cpp/notes/statements.md",
     "cpp/learncpp/chapter 1",
-    "cpp/learncpp/chapter 0/hello-world",
     "cpp/learncpp/chapter 0/chapter0.md",
-    "cpp/learncpp/chapter 0",
     "cpp/notes/standard-library.md",
     "cpp/notes/3rd-party-libraries.md",
-    "cpp/notes",
-    "cpp/learncpp",
-    "cpp",
     "learncpp/chapter0.md",
     "Untitled.md"
   ]
